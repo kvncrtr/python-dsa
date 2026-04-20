@@ -58,6 +58,78 @@ python-dsa/
 ```
 Each folder contains practice problems, experiments, notes, and solution walkthroughs related to that topic.
 
+## Learning System
+1. Pre-read chapter
+    Ask:
+    - What's the core idea?
+    - Why does the idea matter?
+    - What problem does it solve?
+    - When is the appropriate time to use this idea?
+2. Convert every chapter into active recall prompts
+    - 5-10 questions
+3. Summarize the chapter in plain english
+4. Pair concepts with code
+    - Close the book
+    - Rebuild the algorithm from memory
+    - Explain it out loud
+    - give a real world use case
+    - Code it in Python
+    - Solve 1 to 3 related problems
+5. Revisit yesterday’s cards/questions for 10 minutes    
+6. Redo all missed
+    - Questions
+    - Related problems
+    - Memory algorithms
+    - Weak explainations
+7. Review with an explaination post
+8. Practice Exams
+    - Timer: 120mins
+    - Clarification only
+    - Planning
+    - Explain while coding
+    - Manual trace and complexity rep
+    - Active recall programming language questions
+    - Active recall behavioral questions STAR
+    - 
+
+9. Mass reviews every Month on everything I have learned so far
+    - Timer: 50mins
+    - 1 problem (LeetCode / NeetCode Plain editor (no autocomplete if possible))
+
+Part 2: Onsite Simulation (2–3 hours)
+
+
+Slightly harder
+Round 3: Behavioral (30 min)
+
+Answer out loud:
+
+“Tell me about yourself”
+“Tell me about a challenge”
+“Tell me about a conflict”
+Round 4: Project Deep Dive (30–45 min)
+
+You MUST be able to explain:
+
+Architecture
+Why you chose your stack
+Tradeoffs
+Problems you solved
+Part 3: System Design (for you, keep it simple)
+
+Even as a junior, you need basic clarity.
+
+Practice 1–2 times per week:
+
+Example prompts
+“Design a booking system”
+“Design a notification system”
+“Design a simple API”
+What to cover
+Endpoints
+Database schema
+Basic scaling ideas 
+
 ## Problem-Solving Approach
 
 For each problem, I aim to practice:
