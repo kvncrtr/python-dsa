@@ -54,3 +54,19 @@ phone book. (Hint: You’ll have to search through the whole book!)”
 
 Answer: O(n)
 '''
+
+# 1.5 Reading numbers
+'''
+“You want to read the numbers of every person in the phone book.”
+
+Answer: O(n)
+'''
+
+# 1.6 Reading numbers
+'''
+“You want to read the numbers of just the As. (This is a tricky one! 
+It involves concepts that are covered more in chapter 4. Read the 
+answer—you may be surprised!)”
+
+Answer: O(n) but the slice that is from the array is sliced at "B"
+'''
