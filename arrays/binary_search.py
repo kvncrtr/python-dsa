@@ -23,6 +23,7 @@
 # print(result)
 
 # 1.1 List of names
+
 '''
 Suppose you have a sorted list of 128 names, and you’re searching 
 through it using binary search. What’s the maximum number of steps 
