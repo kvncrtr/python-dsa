@@ -34,28 +34,6 @@ This repo includes:
 - notes, explanations, and solution breakdowns
 - progress over time through commits
 
-## Repository Structure
-
-```bash
-python-dsa/
-├── arrays/
-├── strings/
-├── hash-maps/
-├── sets/
-├── two-pointers/
-├── sliding-window/
-├── stacks/
-├── queues/
-├── linked-lists/
-├── recursion/
-├── binary-search/
-├── trees/
-├── graphs/
-├── dynamic-programming/
-├── notes/
-└── README.md
-
-```
 Each folder contains practice problems, experiments, notes, and solution walkthroughs related to that topic.
 
 ## Learning System
@@ -150,3 +128,5 @@ It reflects my commitment to becoming a better engineer through repetition, clar
 ## Career Objective
 
 I am building this repository as part of my preparation for software engineering opportunities, especially backend and entry-level engineering roles where strong fundamentals, problem-solving ability, and technical consistency matter.
+
+git add .; git commit; git push;
